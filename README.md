@@ -25,7 +25,7 @@ The MovieAnalysis project involves gathering data from APIs and webscraping. Aft
 
 #### Gross Earnings Distribution
 This graph demonstrates the skewed distribution of gross earnings.
-![gross_earnings_distribution](graphs/gross_earnings_distribution.jpg)
+![gross_earnings_distribution](images/gross_earnings_distribution.jpg)
 
 #### Distribution of Genres
 This graph demonstrates the popularity of each genre from the TMDB database. Drama, thriller, and comedy are the three most popular genres based on our findings. 
