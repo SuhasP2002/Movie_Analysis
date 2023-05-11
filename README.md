@@ -29,24 +29,24 @@ This graph demonstrates the skewed distribution of gross earnings.
 
 #### Distribution of Genres
 This graph demonstrates the popularity of each genre from the TMDB database. Drama, thriller, and comedy are the three most popular genres based on our findings. 
-![distribution_genre](graphs/Distribution_genre.png)
+![distribution_genre](images/Distribution_genre.png)
 
 #### Median Gross Earnings for each Genre
 Adventure, family, animation, and action movies are the genres with the largest revenues. 
-![average_gross_earnings](graphs/median_genre.PNG)
+![average_gross_earnings](images/median_genre.PNG)
 
 #### Mean IMDB Rating for each Genre
 This boxplot demonstrates the IMDB Ratings of each genre. War movies have the highest IMDB ratings as well as the greatest range.
-![average_rating](graphs/Average_IMDB_Ratings.png)
+![average_rating](images/Average_IMDB_Ratings.png)
 
 #### Mean TMDB Popularity for each Genre
 Family movies have the highest TMDB popularity rating, followed by animation movies.
-![TMDB_popularity](graphs/Average_TMDB_Popularity.png)
+![TMDB_popularity](images/Average_TMDB_Popularity.png)
 
 #### Monthly Median Gross Earnings for each Genre
 This graph shows the median gross earnings for each genre and month.  For example, in November, animation, family, and adventure movies generated the most revenue. 
-![month_genre_gross_median](graphs/Median_Gross_Revenue.png)
+![month_genre_gross_median](images/Median_Gross_Revenue.png)
 
 #### Runtime Through the Decades
 This graph demonstrates the runtime of a movie throughout the last 100 years.
-![runtime_decades](graphs/runtime_decades.JPG)
+![runtime_decades](images/runtime_decades.JPG)
